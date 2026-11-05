@@ -1,0 +1,17 @@
+[
+  "runtime",
+  "objcdt",
+  "objcrt",
+  "objc-vfs-overlay",
+  "scripts",
+  "markgc.cpp",
+  "objc.xcconfig",
+  "objc4.plist",
+  "unexported_symbols",
+  "APPLE_LICENSE",
+  "ReleaseNotes.rtf",
+  "objc.sln",
+  "prebuild.bat",
+  "version.bat",
+  "version.rc"
+]

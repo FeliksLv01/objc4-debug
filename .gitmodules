@@ -1,0 +1,36 @@
+[submodule "upstream/Libc"]
+	path = upstream/Libc
+	url = https://github.com/apple-oss-distributions/Libc.git
+	shallow = true
+[submodule "upstream/Libsystem"]
+	path = upstream/Libsystem
+	url = https://github.com/apple-oss-distributions/Libsystem.git
+	shallow = true
+[submodule "upstream/dyld"]
+	path = upstream/dyld
+	url = https://github.com/apple-oss-distributions/dyld.git
+	shallow = true
+[submodule "upstream/libclosure"]
+	path = upstream/libclosure
+	url = https://github.com/apple-oss-distributions/libclosure.git
+	shallow = true
+[submodule "upstream/libmalloc"]
+	path = upstream/libmalloc
+	url = https://github.com/apple-oss-distributions/libmalloc.git
+	shallow = true
+[submodule "upstream/libplatform"]
+	path = upstream/libplatform
+	url = https://github.com/apple-oss-distributions/libplatform.git
+	shallow = true
+[submodule "upstream/libpthread"]
+	path = upstream/libpthread
+	url = https://github.com/apple-oss-distributions/libpthread.git
+	shallow = true
+[submodule "upstream/objc4"]
+	path = upstream/objc4
+	url = https://github.com/apple-oss-distributions/objc4.git
+	shallow = true
+[submodule "upstream/xnu"]
+	path = upstream/xnu
+	url = https://github.com/apple-oss-distributions/xnu.git
+	shallow = true
